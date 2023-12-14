@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/GitHub/UnrealEngineTryings/UnrealLearning/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"D:/GitHub/UnrealEngineTryings/UnrealLearning/Content/Course/genericActor.uasset"
+				"D:/GitHub/UnrealEngineTryings/UnrealLearning/Content/Course/genericActor.uasset",
+				"D:/GitHub/UnrealEngineTryings/UnrealLearning/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]

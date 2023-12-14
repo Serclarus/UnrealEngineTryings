@@ -1498,3 +1498,25 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2023.12.14-20.12.50:624][138]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Course/genericActor.genericActor_C
 [2023.12.14-20.12.50:633][138]LogActorFactory: Actor Factory spawned Blueprint /Game/Course/genericActor.genericActor as actor: genericActor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.genericActor_C_UAID_782B46E6C818DEC501_1781837263
 [2023.12.14-20.12.50:634][138]LogActorFactory: Actor Factory spawned Blueprint /Game/Course/genericActor.genericActor as actor: genericActor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.genericActor_C_UAID_782B46E6C818DEC501_1781837263
+[2023.12.14-20.20.21:582][699]LogSlate: Took 0.011346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.12.14-20.21.14:603][913]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2023.12.14-20.21.14:609][913]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/7I/NWINZ0E19LYXUPRM70G0JV_Auto2
+[2023.12.14-20.21.14:610][913]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/NWINZ0E19LYXUPRM70G0JV_Auto2B396428E4D8BA212CEB68C9300D0DA70.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/7I/NWINZ0E19LYXUPRM70G0JV_Auto2.uasset'
+[2023.12.14-20.21.14:612][913]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.047
+[2023.12.14-20.21.14:612][913]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2023.12.14-20.21.14:614][913]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2023.12.14-20.21.14:614][913]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.14-20.21.14:812][913]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C]
+[2023.12.14-20.21.14:868][913]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2023.12.14-20.21.14:868][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2023.12.14-20.21.14:891][913]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2
+[2023.12.14-20.21.14:891][913]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/BP_ThirdPersonCharacter_Auto26ED5DD964A7DB1835A98CD86CFE79BCF.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2.uasset'
+[2023.12.14-20.21.14:892][913]LogFileHelpers: Auto-saving content packages took 0.279
+[2023.12.14-20.25.29:347][ 68]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.12.14-20.25.29:424][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.12.14-20.25.37:052][504]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.14-20.25.37:248][504]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.12.14-20.25.37:248][504]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/BP_ThirdPersonCharacter9956FAF14BC5B3A1772F66AFEB9A87E9.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.12.14-20.25.37:270][504]LogFileHelpers: InternalPromptForCheckoutAndSave took 216 ms (total: 2.11 sec)
+[2023.12.14-20.25.37:274][504]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.12.14-20.25.37:274][504]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
