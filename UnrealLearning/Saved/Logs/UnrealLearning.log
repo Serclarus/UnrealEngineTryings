@@ -1470,3 +1470,31 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2023.12.14-20.10.26:618][412]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2023.12.14-20.10.26:618][412]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2023.12.14-20.10.26:879][412]LogViewport: Scene viewport resized to 1139x813, mode Windowed.
+[2023.12.14-20.11.14:002][197]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2023.12.14-20.11.14:005][197]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 1.159
+[2023.12.14-20.11.14:010][197]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Course/genericActor] ([2] browsable assets)...
+[2023.12.14-20.11.14:010][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/Course/genericActor]
+[2023.12.14-20.11.14:010][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Course/genericActor" FILE="../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/Autosaves/Game/Course/genericActor_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.12.14-20.11.14:030][197]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Course/genericActor_Auto1
+[2023.12.14-20.11.14:030][197]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/genericActor_Auto11B6504974BC0360245549C850AD194A5.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/Autosaves/Game/Course/genericActor_Auto1.uasset'
+[2023.12.14-20.11.14:036][197]LogFileHelpers: Auto-saving content packages took 0.028
+[2023.12.14-20.11.14:098][197]LogAutomationController: Ignoring very large delta of 2.12 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.12.14-20.12.35:741][518]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.14-20.12.41:064][829]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.14-20.12.41:189][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Course/genericActor" FILE="../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/Course/genericActor.uasset" SILENT=true
+[2023.12.14-20.12.41:195][829]LogSavePackage: Moving output files for package: /Game/Course/genericActor
+[2023.12.14-20.12.41:195][829]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/genericActor32FBFB8D4009FED631E70B93A63FD2C2.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/Course/genericActor.uasset'
+[2023.12.14-20.12.41:212][829]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 1.89 sec)
+[2023.12.14-20.12.41:213][829]AssetCheck: New page: Asset Save: genericActor
+[2023.12.14-20.12.41:213][829]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Course/genericActor.genericActor
+[2023.12.14-20.12.42:279][888]BlueprintLog: New page: Compile genericActor
+[2023.12.14-20.12.42:328][888]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.12.14-20.12.49:306][ 65]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Course/genericActor.genericActor_C
+[2023.12.14-20.12.49:306][ 65]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Course/genericActor.genericActor_C
+[2023.12.14-20.12.49:308][ 65]LogActorFactory: Actor Factory spawned Blueprint /Game/Course/genericActor.genericActor as actor: genericActor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.genericActor_C_0
+[2023.12.14-20.12.49:310][ 65]LogActorFactory: Actor Factory spawned Blueprint /Game/Course/genericActor.genericActor as actor: genericActor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.genericActor_C_0
+[2023.12.14-20.12.49:318][ 65]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.12.14-20.12.50:624][138]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Course/genericActor.genericActor_C
+[2023.12.14-20.12.50:624][138]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Course/genericActor.genericActor_C
+[2023.12.14-20.12.50:633][138]LogActorFactory: Actor Factory spawned Blueprint /Game/Course/genericActor.genericActor as actor: genericActor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.genericActor_C_UAID_782B46E6C818DEC501_1781837263
+[2023.12.14-20.12.50:634][138]LogActorFactory: Actor Factory spawned Blueprint /Game/Course/genericActor.genericActor as actor: genericActor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.genericActor_C_UAID_782B46E6C818DEC501_1781837263
