@@ -1437,3 +1437,36 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2023.12.14-19.37.10:302][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
 [2023.12.14-19.37.10:347][  2]LogD3D12RHI: Cannot end block when stack is empty
 [2023.12.14-19.38.14:916][193]LogDerivedDataCache: C:/Users/seref/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.072 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 390 files in 706 folders with total size 12 MiB.
+[2023.12.14-19.56.17:537][431]LogAssetEditorSubsystem: Opening Asset editor for TextureCube /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight
+[2023.12.14-19.56.18:058][431]LogViewport: Scene viewport resized to 914x486, mode Windowed.
+[2023.12.14-19.56.26:796][778]LogSlate: Window 'HDRI_Epic_Courtyard_Daylight' being destroyed
+[2023.12.14-19.56.26:810][778]LogSlate: Window 'HDRI_Epic_Courtyard_Daylight' being destroyed
+[2023.12.14-19.59.07:304][260]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.14-19.59.11:808][397]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.12.14-19.59.11:811][397]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.14-19.59.11:811][397]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.14-19.59.11:887][397]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2023.12.14-19.59.13:325][397]LogSlate: Took 0.001394 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.12.14-19.59.13:877][398]LogAutomationController: Ignoring very large delta of 2.07 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.12.14-19.59.13:898][398]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.14-19.59.15:793][424]LogMeshUtilities: Finished distance field build in 2.7s - 126x126x21 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 100% occupied, 4 triangles, PhAT_FloorBox
+[2023.12.14-19.59.20:402][504]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.14-19.59.20:751][524]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2023.12.14-20.06.07:603][829]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.12.14-20.09.42:624][282]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.14-20.09.56:242][115]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.14-20.09.56:269][115]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.14-20.09.56:284][116]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.14-20.10.00:907][301]LogContentBrowser: Attempting asset rename: NewFolder -> Course
+[2023.12.14-20.10.00:908][301]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.14-20.10.10:274][736]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.12.14-20.10.10:289][736]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.12.14-20.10.10:299][736]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.12.14-20.10.10:304][736]LogAutomationController: Ignoring very large delta of 2.31 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.12.14-20.10.10:329][738]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.12.14-20.10.17:377][ 47]LogContentBrowser: Attempting asset rename: NewBlueprint -> genericActor
+[2023.12.14-20.10.17:392][ 47]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.12.14-20.10.26:617][412]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Course/genericActor.genericActor
+[2023.12.14-20.10.26:618][412]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.14-20.10.26:618][412]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.14-20.10.26:879][412]LogViewport: Scene viewport resized to 1139x813, mode Windowed.
