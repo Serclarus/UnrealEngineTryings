@@ -1177,3 +1177,10 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.18-18.09.57:427][726]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 449 ms)
 [2023.12.18-18.09.57:430][726]AssetCheck: New page: Asset Save: genericActor
 [2023.12.18-18.09.57:430][726]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Course/genericActor.genericActor
+[2023.12.18-18.10.39:900][376]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-18.10.40:056][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Course/genericActor" FILE="../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/Course/genericActor.uasset" SILENT=true
+[2023.12.18-18.10.40:073][376]LogSavePackage: Moving output files for package: /Game/Course/genericActor
+[2023.12.18-18.10.40:074][376]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/genericActor0A47750341E6B5AAD09BCCAC1B1FEB79.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/Course/genericActor.uasset'
+[2023.12.18-18.10.40:093][376]LogFileHelpers: InternalPromptForCheckoutAndSave took 192 ms (total: 642 ms)
+[2023.12.18-18.10.40:099][376]AssetCheck: New page: Asset Save: genericActor
+[2023.12.18-18.10.40:099][376]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Course/genericActor.genericActor
