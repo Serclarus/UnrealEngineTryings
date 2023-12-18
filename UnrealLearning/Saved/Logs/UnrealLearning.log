@@ -1184,3 +1184,165 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.18-18.10.40:093][376]LogFileHelpers: InternalPromptForCheckoutAndSave took 192 ms (total: 642 ms)
 [2023.12.18-18.10.40:099][376]AssetCheck: New page: Asset Save: genericActor
 [2023.12.18-18.10.40:099][376]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Course/genericActor.genericActor
+[2023.12.18-18.18.00:653][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.12.18-18.18.00:655][173]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.028
+[2023.12.18-18.18.00:657][173]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Course/genericActor] ([2] browsable assets)...
+[2023.12.18-18.18.00:657][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/Course/genericActor]
+[2023.12.18-18.18.00:657][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Course/genericActor" FILE="../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/Autosaves/Game/Course/genericActor_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.12.18-18.18.00:666][173]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Course/genericActor_Auto1
+[2023.12.18-18.18.00:667][173]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/genericActor_Auto1F152E8F54EDD6BD1CAF838867E0A81F7.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/Autosaves/Game/Course/genericActor_Auto1.uasset'
+[2023.12.18-18.18.00:670][173]LogFileHelpers: Auto-saving content packages took 0.013
+[2023.12.18-18.26.15:603][155]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.18-18.26.15:771][156]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.18-18.26.16:195][193]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.12.18-18.26.19:335][468]LogSlate: Took 0.008902 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.18-18.26.22:691][576]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.12.18-18.26.22:707][576]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.12.18-18.26.22:716][576]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.12.18-18.26.22:735][577]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.12.18-18.26.38:300][ 80]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_movingPlatform
+[2023.12.18-18.26.38:315][ 80]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.12.18-18.26.49:224][426]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Course/BP_movingPlatform.BP_movingPlatform
+[2023.12.18-18.26.49:224][426]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.18-18.26.49:225][426]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.18-18.26.49:604][426]LogViewport: Scene viewport resized to 1139x639, mode Windowed.
+[2023.12.18-18.28.01:122][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.12.18-18.28.01:124][986]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.027
+[2023.12.18-18.28.01:124][986]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Course/BP_movingPlatform] ([2] browsable assets)...
+[2023.12.18-18.28.01:124][986]OBJ SavePackage: Finished generating thumbnails for package [/Game/Course/BP_movingPlatform]
+[2023.12.18-18.28.01:130][986]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Course/BP_movingPlatform_Auto2
+[2023.12.18-18.28.01:130][986]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/BP_movingPlatform_Auto2C67EBBC3467AD44FED8B6E920BC0D0E8.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/Autosaves/Game/Course/BP_movingPlatform_Auto2.uasset'
+[2023.12.18-18.28.01:131][986]LogFileHelpers: Auto-saving content packages took 0.007
+[2023.12.18-18.28.10:172][300]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.18-18.29.50:121][107]LogSlate: Took 0.006600 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.12.18-18.29.59:702][398]BlueprintLog: New page: Compile BP_movingPlatform
+[2023.12.18-18.29.59:753][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.12.18-18.30.01:692][450]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-18.30.01:846][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Course/BP_movingPlatform" FILE="../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/Course/BP_movingPlatform.uasset" SILENT=true
+[2023.12.18-18.30.01:859][450]LogSavePackage: Moving output files for package: /Game/Course/BP_movingPlatform
+[2023.12.18-18.30.01:859][450]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/BP_movingPlatformE6A0E6C44D85F44954762A9D26BC5FC9.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/Course/BP_movingPlatform.uasset'
+[2023.12.18-18.30.01:876][450]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 826 ms)
+[2023.12.18-18.30.01:877][450]AssetCheck: New page: Asset Save: BP_movingPlatform
+[2023.12.18-18.30.01:877][450]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Course/BP_movingPlatform.BP_movingPlatform
+[2023.12.18-18.30.13:320][751]LogViewport: Scene viewport resized to 1135x662, mode Windowed.
+[2023.12.18-18.30.13:470][753]LogViewport: Scene viewport resized to 464x186, mode Windowed.
+[2023.12.18-18.30.14:083][803]LogViewport: Scene viewport resized to 1139x639, mode Windowed.
+[2023.12.18-18.30.14:353][820]LogViewport: Scene viewport resized to 1135x662, mode Windowed.
+[2023.12.18-18.30.14:509][822]LogViewport: Scene viewport resized to 464x186, mode Windowed.
+[2023.12.18-18.30.14:796][848]LogViewport: Scene viewport resized to 1139x639, mode Windowed.
+[2023.12.18-18.30.15:840][964]LogSlate: Window 'BP_movingPlatform' being destroyed
+[2023.12.18-18.30.20:340][150]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Course/BP_movingPlatform.BP_movingPlatform_C
+[2023.12.18-18.30.20:340][150]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Course/BP_movingPlatform.BP_movingPlatform_C
+[2023.12.18-18.30.20:343][150]LogActorFactory: Actor Factory spawned Blueprint /Game/Course/BP_movingPlatform.BP_movingPlatform as actor: BP_movingPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_movingPlatform_C_0
+[2023.12.18-18.30.20:346][150]LogActorFactory: Actor Factory spawned Blueprint /Game/Course/BP_movingPlatform.BP_movingPlatform as actor: BP_movingPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_movingPlatform_C_0
+[2023.12.18-18.30.21:016][179]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Course/BP_movingPlatform.BP_movingPlatform_C
+[2023.12.18-18.30.21:017][179]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Course/BP_movingPlatform.BP_movingPlatform_C
+[2023.12.18-18.30.21:023][179]LogActorFactory: Actor Factory spawned Blueprint /Game/Course/BP_movingPlatform.BP_movingPlatform as actor: BP_movingPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_movingPlatform_C_UAID_782B46E6C8181AC701_1929813879
+[2023.12.18-18.30.21:026][179]LogActorFactory: Actor Factory spawned Blueprint /Game/Course/BP_movingPlatform.BP_movingPlatform as actor: BP_movingPlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_movingPlatform_C_UAID_782B46E6C8181AC701_1929813879
+[2023.12.18-18.31.39:157][549]BlueprintLog: New page: Compile BP_movingPlatform
+[2023.12.18-18.31.39:224][549]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.12.18-18.39.44:609][979]BlueprintLog: New page: Compile BP_movingPlatform
+[2023.12.18-18.39.44:671][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.12.18-18.39.46:377][123]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-18.39.46:547][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Course/BP_movingPlatform" FILE="../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/Course/BP_movingPlatform.uasset" SILENT=true
+[2023.12.18-18.39.46:558][123]LogSavePackage: Moving output files for package: /Game/Course/BP_movingPlatform
+[2023.12.18-18.39.46:558][123]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/BP_movingPlatform9DB9C79E48BEB665E8A40B9B735A6010.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/Course/BP_movingPlatform.uasset'
+[2023.12.18-18.39.46:569][123]LogFileHelpers: InternalPromptForCheckoutAndSave took 192 ms (total: 1.01 sec)
+[2023.12.18-18.39.46:571][123]AssetCheck: New page: Asset Save: BP_movingPlatform
+[2023.12.18-18.39.46:571][123]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Course/BP_movingPlatform.BP_movingPlatform
+[2023.12.18-18.39.49:310][287]LogDebuggerCommands: Repeating last play command: Simulate
+[2023.12.18-18.39.49:320][287]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.12.18-18.39.49:320][287]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2023.12.18-18.39.49:328][287]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 7 ms
+[2023.12.18-18.39.49:344][287]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.12.18-18.39.49:345][287]LogPlayLevel: [PlayLevel] Compiling genericActor before play...
+[2023.12.18-18.39.49:403][287]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.12.18-18.39.49:406][287]LogPlayLevel: PlayLevel: Blueprint regeneration took 62 ms (1 blueprints)
+[2023.12.18-18.39.49:415][287]PIE: New page: SIE session: ThirdPersonMap (19 Dec 2023, 00:39:49)
+[2023.12.18-18.39.49:423][287]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.12.18-18.39.49:425][287]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2023.12.18-18.39.49:427][287]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.12.18-18.39.49:437][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010049s)
+[2023.12.18-18.39.49:438][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.010147s)
+[2023.12.18-18.39.49:464][287]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.12.18-18.39.49:467][287]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.18-18.39.49:467][287]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.18-18.39.49:468][287]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.12.18-18.39.49:470][287]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.12.18-18.39.49:470][287]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.18-18.39.49:470][287]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.12.18-18.39.49:471][287]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.12.18-18.39.49:473][287]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.12.18-18.39.49:474][287]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 584 ms)
+[2023.12.18-18.39.49:474][287]LogPlayLevel: PIE: World Init took: (0.008287s)
+[2023.12.18-18.39.49:476][287]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.12.18-18.39.49:476][287]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.18-18.39.49:476][287]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.18-18.39.49:476][287]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.18-18.39.49:476][287]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.18-18.39.49:476][287]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.18-18.39.49:476][287]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.18-18.39.49:476][287]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.18-18.39.49:476][287]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.18-18.39.49:477][287]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.18-18.39.49:477][287]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.18-18.39.49:477][287]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.18-18.39.49:480][287]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.18-18.39.49:508][287]LogAudioMixer: Display: Using Audio Hardware Device Kulaklıklar (Redmi Buds 3 Pro)
+[2023.12.18-18.39.49:509][287]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.18-18.39.49:509][287]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.18-18.39.49:509][287]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.18-18.39.49:511][287]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.12.18-18.39.49:511][287]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.12.18-18.39.49:513][287]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.12.18-18.39.49:513][287]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.12.18-18.39.49:513][287]LogInit: FAudioDevice initialized with ID 2.
+[2023.12.18-18.39.49:513][287]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2023.12.18-18.39.49:513][287]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.12.18-18.39.49:527][287]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.18-18.39.49:530][287]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.12.18-21.39.49
+[2023.12.18-18.39.49:531][287]LogWorld: Bringing up level for play took: 0.004568
+[2023.12.18-18.39.49:535][287]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2023.12.18-18.39.49:585][287]PIE: Server logged in
+[2023.12.18-18.39.49:586][287]PIE: Play in editor total start time 0.268 seconds.
+[2023.12.18-18.39.57:966][502]LogMemory: Warning: Freeing 33554432 bytes from backup pool to handle out of memory.
+[2023.12.18-18.39.57:966][502]LogMemory: Warning: MemoryStats:
+	AvailablePhysical 5166301184
+	 AvailableVirtual 7651328
+	     UsedPhysical 3570978816
+	 PeakUsedPhysical 3570978816
+	      UsedVirtual 7332368384
+	  PeakUsedVirtual 7466455040
+[2023.12.18-18.39.57:966][502]Allocator Stats for Mimalloc: (not implemented)
+[2023.12.18-18.39.57:966][502]LogWindows: Error: appError called: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\GenericPlatform\GenericPlatformMemory.cpp] [Line: 251] 
+Ran out of memory allocating 5147740 bytes with alignment 1. Last error msg: The paging file is too small for this operation to complete..
+
+
+
+[2023.12.18-18.39.57:966][502]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2023.12.18-18.40.03:766][502]LogWindows: Error: === Critical error: ===
+[2023.12.18-18.40.03:766][502]LogWindows: Error: 
+[2023.12.18-18.40.03:766][502]LogWindows: Error: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\GenericPlatform\GenericPlatformMemory.cpp] [Line: 251] 
+[2023.12.18-18.40.03:766][502]LogWindows: Error: Ran out of memory allocating 5147740 bytes with alignment 1. Last error msg: The paging file is too small for this operation to complete..
+[2023.12.18-18.40.03:766][502]LogWindows: Error: 
+[2023.12.18-18.40.03:766][502]LogWindows: Error: 
+[2023.12.18-18.40.03:766][502]LogWindows: Error: [Callstack] 0x00007ffe3ce2fc53 UnrealEditor-Core.dll!UnknownFunction []
+[2023.12.18-18.40.03:766][502]LogWindows: Error: [Callstack] 0x00007ffe3ce56de3 UnrealEditor-Core.dll!UnknownFunction []
+[2023.12.18-18.40.03:766][502]LogWindows: Error: [Callstack] 0x00007ffe3cf31d7f UnrealEditor-Core.dll!UnknownFunction []
+[2023.12.18-18.40.03:766][502]LogWindows: Error: [Callstack] 0x00007ffe3cf32fe9 UnrealEditor-Core.dll!UnknownFunction []
+[2023.12.18-18.40.03:766][502]LogWindows: Error: [Callstack] 0x00007ffe3cf33493 UnrealEditor-Core.dll!UnknownFunction []
+[2023.12.18-18.40.03:766][502]LogWindows: Error: [Callstack] 0x00007ffe3ce069a8 UnrealEditor-Core.dll!UnknownFunction []
+[2023.12.18-18.40.03:766][502]LogWindows: Error: [Callstack] 0x00007ffe472cd73f UnrealEditor-D3D12RHI.dll!UnknownFunction []
+[2023.12.18-18.40.03:766][502]LogWindows: Error: [Callstack] 0x00007ffe4733301b UnrealEditor-D3D12RHI.dll!UnknownFunction []
+[2023.12.18-18.40.03:766][502]LogWindows: Error: [Callstack] 0x00007ffe4733020c UnrealEditor-D3D12RHI.dll!UnknownFunction []
+[2023.12.18-18.40.03:766][502]LogWindows: Error: [Callstack] 0x00007ffe2aaea1bc UnrealEditor-Engine.dll!UnknownFunction []
+[2023.12.18-18.40.03:766][502]LogWindows: Error: [Callstack] 0x00007ffe2ab0d339 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.12.18-18.40.03:766][502]LogWindows: Error: [Callstack] 0x00007ffe2ab282f8 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.12.18-18.40.03:766][502]LogWindows: Error: [Callstack] 0x00007ffe3cd81c9f UnrealEditor-Core.dll!UnknownFunction []
+[2023.12.18-18.40.03:766][502]LogWindows: Error: [Callstack] 0x00007ffe3cd822ae UnrealEditor-Core.dll!UnknownFunction []
+[2023.12.18-18.40.03:766][502]LogWindows: Error: [Callstack] 0x00007ffe301b697b UnrealEditor-RenderCore.dll!UnknownFunction []
+[2023.12.18-18.40.03:766][502]LogWindows: Error: [Callstack] 0x00007ffe301be594 UnrealEditor-RenderCore.dll!UnknownFunction []
+[2023.12.18-18.40.03:766][502]LogWindows: Error: [Callstack] 0x00007ffe3d374e32 UnrealEditor-Core.dll!UnknownFunction []
+[2023.12.18-18.40.03:766][502]LogWindows: Error: [Callstack] 0x00007ffe3d368667 UnrealEditor-Core.dll!UnknownFunction []
+[2023.12.18-18.40.03:766][502]LogWindows: Error: [Callstack] 0x00007ffefc02257d KERNEL32.DLL!UnknownFunction []
+[2023.12.18-18.40.03:766][502]LogWindows: Error: 
