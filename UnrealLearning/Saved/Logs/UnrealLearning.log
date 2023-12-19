@@ -1294,3 +1294,26 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2023.12.19-19.56.30:641][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.12.19-19.56.30:645][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
 [2023.12.19-19.56.30:723][265]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.12.19-20.01.43:198][ 96]BlueprintLog: New page: Compile BP_movingPlatform
+[2023.12.19-20.01.43:263][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2023.12.19-20.02.41:363][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.12.19-20.02.41:382][606]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.015043 seconds
+[2023.12.19-20.02.41:385][606]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/SH/44DEQFV8W43U7SFNWLB6G8_Auto1
+[2023.12.19-20.02.41:385][606]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/44DEQFV8W43U7SFNWLB6G8_Auto10FFAB8094F60B0DED792EAA5766A2D5C.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/SH/44DEQFV8W43U7SFNWLB6G8_Auto1.uasset'
+[2023.12.19-20.02.41:389][606]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.051
+[2023.12.19-20.02.41:389][606]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
+[2023.12.19-20.02.41:390][606]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Course/BP_movingPlatform] ([2] browsable assets)...
+[2023.12.19-20.02.41:546][606]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Course/BP_movingPlatform.BP_movingPlatform]
+[2023.12.19-20.02.41:547][606]OBJ SavePackage: Finished generating thumbnails for package [/Game/Course/BP_movingPlatform]
+[2023.12.19-20.02.41:561][606]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Course/BP_movingPlatform_Auto1
+[2023.12.19-20.02.41:562][606]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/BP_movingPlatform_Auto13232755F47D7E2C3EB4DF588447D3EF0.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/Autosaves/Game/Course/BP_movingPlatform_Auto1.uasset'
+[2023.12.19-20.02.41:563][606]LogFileHelpers: Auto-saving content packages took 0.174
+[2023.12.19-20.07.16:090][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.19-20.07.16:253][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Course/BP_movingPlatform" FILE="../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/Course/BP_movingPlatform.uasset" SILENT=true
+[2023.12.19-20.07.16:267][ 22]LogSavePackage: Moving output files for package: /Game/Course/BP_movingPlatform
+[2023.12.19-20.07.16:268][ 22]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/BP_movingPlatformF69AFD084E0F7A13CFB7E28C22F44764.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/Course/BP_movingPlatform.uasset'
+[2023.12.19-20.07.16:282][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms
+[2023.12.19-20.07.16:284][ 22]AssetCheck: New page: Asset Save: BP_movingPlatform
+[2023.12.19-20.07.16:284][ 22]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Course/BP_movingPlatform.BP_movingPlatform
+[2023.12.19-20.07.17:471][ 90]BlueprintLog: New page: Compile BP_movingPlatform
+[2023.12.19-20.07.17:528][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
