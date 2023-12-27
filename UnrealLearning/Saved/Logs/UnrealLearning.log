@@ -1145,3 +1145,9 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2023.12.27-20.21.01:808][355]AssetCheck: New page: Asset Save: BP_Floor_C_UAID_782B46E6C81849C901_1418393263
 [2023.12.27-20.21.01:808][355]LogContentValidation: Display: Validating /Game/Course/BP_Floor.BP_Floor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Floor_C_UAID_782B46E6C81849C901_1418393263
 [2023.12.27-20.22.18:029][642]LogDerivedDataCache: C:/Users/seref/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.162 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 395 files in 713 folders with total size 12 MiB.
+[2023.12.27-20.24.31:925][134]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.27-20.24.32:102][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/MG/2LPMUZSPQABSZCS81F5M2Q
+[2023.12.27-20.24.32:103][134]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/2LPMUZSPQABSZCS81F5M2Q8306D7CB450ABBC2054D7393F9154D90.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/MG/2LPMUZSPQABSZCS81F5M2Q.uasset'
+[2023.12.27-20.24.32:205][134]LogFileHelpers: InternalPromptForCheckoutAndSave took 280 ms (total: 566 ms)
+[2023.12.27-20.24.32:208][134]AssetCheck: New page: Asset Save: BP_Floor_C_UAID_782B46E6C81849C901_1418393263
+[2023.12.27-20.24.32:208][134]LogContentValidation: Display: Validating /Game/Course/BP_Floor.BP_Floor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Floor_C_UAID_782B46E6C81849C901_1418393263
