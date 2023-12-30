@@ -1253,3 +1253,58 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2023.12.30-20.01.00:100][227]LogUObjectHash: Compacting FUObjectHashTables data took   7.07ms
 [2023.12.30-20.01.33:348][457]BlueprintLog: New page: Compile BP_activatePlatform
 [2023.12.30-20.01.33:490][457]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2023.12.30-20.05.59:731][982]LogUObjectHash: Compacting FUObjectHashTables data took  11.22ms
+[2023.12.30-20.05.59:754][982]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.350
+[2023.12.30-20.05.59:764][982]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Course/BP_activatePlatform] ([2] browsable assets)...
+[2023.12.30-20.06.00:095][982]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Course/BP_activatePlatform.BP_activatePlatform]
+[2023.12.30-20.06.00:099][982]OBJ SavePackage: Finished generating thumbnails for package [/Game/Course/BP_activatePlatform]
+[2023.12.30-20.06.00:148][982]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Course/BP_activatePlatform_Auto4
+[2023.12.30-20.06.00:148][982]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/BP_activatePlatform_Auto46885B55446BA17795AFC49B1350DC06F.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/Autosaves/Game/Course/BP_activatePlatform_Auto4.uasset'
+[2023.12.30-20.06.00:156][982]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Course/BP_movingPlatformA] ([2] browsable assets)...
+[2023.12.30-20.06.00:227][982]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Course/BP_movingPlatformA.BP_movingPlatformA]
+[2023.12.30-20.06.00:227][982]OBJ SavePackage: Finished generating thumbnails for package [/Game/Course/BP_movingPlatformA]
+[2023.12.30-20.06.00:396][982]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Course/BP_movingPlatformA_Auto4
+[2023.12.30-20.06.00:397][982]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/BP_movingPlatformA_Auto4FD0BB8E54E973225FFEE01B8E822166B.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/Autosaves/Game/Course/BP_movingPlatformA_Auto4.uasset'
+[2023.12.30-20.06.00:403][982]LogFileHelpers: Auto-saving content packages took 0.643
+[2023.12.30-20.13.50:012][814]BlueprintLog: New page: Compile BP_PlatformBase
+[2023.12.30-20.13.50:254][814]LogUObjectHash: Compacting FUObjectHashTables data took   8.00ms
+[2023.12.30-20.16.16:700][ 78]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.12.30-20.16.16:700][ 78]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.12.30-20.17.55:269][191]LogUObjectHash: Compacting FUObjectHashTables data took   8.04ms
+[2023.12.30-20.17.55:281][191]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.094
+[2023.12.30-20.17.55:282][191]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Course/BP_PlatformBase] ([2] browsable assets)...
+[2023.12.30-20.17.55:283][191]OBJ SavePackage: Finished generating thumbnails for package [/Game/Course/BP_PlatformBase]
+[2023.12.30-20.17.55:297][191]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Course/BP_PlatformBase_Auto5
+[2023.12.30-20.17.55:297][191]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/BP_PlatformBase_Auto57BB0A663461EC931D13168906FE73BCA.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/Autosaves/Game/Course/BP_PlatformBase_Auto5.uasset'
+[2023.12.30-20.17.55:301][191]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Course/BP_activatePlatform] ([2] browsable assets)...
+[2023.12.30-20.17.55:565][191]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Course/BP_activatePlatform.BP_activatePlatform]
+[2023.12.30-20.17.55:571][191]OBJ SavePackage: Finished generating thumbnails for package [/Game/Course/BP_activatePlatform]
+[2023.12.30-20.17.55:612][191]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Course/BP_activatePlatform_Auto5
+[2023.12.30-20.17.55:613][191]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/BP_activatePlatform_Auto5519BDD7549FF91101C1AA484293D407C.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/Autosaves/Game/Course/BP_activatePlatform_Auto5.uasset'
+[2023.12.30-20.17.55:619][191]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Course/BP_movingPlatformA] ([2] browsable assets)...
+[2023.12.30-20.17.55:681][191]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Course/BP_movingPlatformA.BP_movingPlatformA]
+[2023.12.30-20.17.55:681][191]OBJ SavePackage: Finished generating thumbnails for package [/Game/Course/BP_movingPlatformA]
+[2023.12.30-20.17.55:790][191]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Course/BP_movingPlatformA_Auto5
+[2023.12.30-20.17.55:790][191]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/BP_movingPlatformA_Auto5BA461109451D1E2694EA26A65E1178E5.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/Autosaves/Game/Course/BP_movingPlatformA_Auto5.uasset'
+[2023.12.30-20.17.55:795][191]LogFileHelpers: Auto-saving content packages took 0.515
+[2023.12.30-20.18.22:053][293]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.12.30-20.26.12:621][899]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.30-20.26.12:899][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Course/BP_movingPlatformA" FILE="../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/Course/BP_movingPlatformA.uasset" SILENT=true
+[2023.12.30-20.26.12:970][899]LogSavePackage: Moving output files for package: /Game/Course/BP_movingPlatformA
+[2023.12.30-20.26.12:972][899]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/BP_movingPlatformAAF8C1AE246F2124912BD29A44BC09684.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/Course/BP_movingPlatformA.uasset'
+[2023.12.30-20.26.13:006][899]LogFileHelpers: InternalPromptForCheckoutAndSave took 385 ms (total: 844 ms)
+[2023.12.30-20.26.13:014][899]AssetCheck: New page: Asset Save: BP_movingPlatformA
+[2023.12.30-20.26.13:014][899]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Course/BP_movingPlatformA.BP_movingPlatformA
+[2023.12.30-20.26.17:894][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2023.12.30-20.26.19:600][ 15]LogSlate: Window 'Save Content' being destroyed
+[2023.12.30-20.26.19:662][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.30-20.26.19:980][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Course/BP_activatePlatform" FILE="../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/Course/BP_activatePlatform.uasset" SILENT=true
+[2023.12.30-20.26.20:014][ 15]LogSavePackage: Moving output files for package: /Game/Course/BP_activatePlatform
+[2023.12.30-20.26.20:015][ 15]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/BP_activatePlatform50B06CFB4CE49D5E1ACC48A873A44868.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/Course/BP_activatePlatform.uasset'
+[2023.12.30-20.26.20:032][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Course/BP_PlatformBase" FILE="../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/Course/BP_PlatformBase.uasset" SILENT=true
+[2023.12.30-20.26.20:050][ 15]LogSavePackage: Moving output files for package: /Game/Course/BP_PlatformBase
+[2023.12.30-20.26.20:050][ 15]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/BP_PlatformBase4FDE48604E5E87F44E22E2A8BC461FAB.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/Course/BP_PlatformBase.uasset'
+[2023.12.30-20.26.20:093][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave took 431 ms (total: 1.27 sec)
+[2023.12.30-20.26.20:096][ 15]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.30-20.26.20:096][ 15]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Course/BP_activatePlatform.BP_activatePlatform
+[2023.12.30-20.26.20:096][ 15]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Course/BP_PlatformBase.BP_PlatformBase
