@@ -1134,3 +1134,36 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.03-20.51.31:999][  2]LogSlate: Took 0.000531 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2024.01.03-20.51.32:041][  3]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.01.03-20.51.32:294][  4]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-20.51.48:355][330]LogClass: Warning: Short type name "BP_movingPlatform_C_UAID_782B46E6C8186FC701_1936518839" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.03-20.51.48:382][330]LogClass: Warning: Short type name "BP_movingPlatform_C_UAID_782B46E6C8186FC701_1936518839" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.03-20.52.13:265][272]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.03-20.52.13:396][272]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.006448 seconds
+[2024.01.03-20.52.13:399][272]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/ED/Y2XP5TGKS5I8QVHCIKO8WT
+[2024.01.03-20.52.13:399][272]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/Y2XP5TGKS5I8QVHCIKO8WT12EBB0934922F0DC07FBA28A2EDFBB37.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/ED/Y2XP5TGKS5I8QVHCIKO8WT.uasset'
+[2024.01.03-20.52.13:423][272]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms
+[2024.01.03-20.52.13:425][272]AssetCheck: New page: Asset Save: BP_movingPlatform_C_UAID_782B46E6C8182ACC01_1247658975
+[2024.01.03-20.52.13:425][272]LogContentValidation: Display: Validating /Game/Course/BP_movingPlatformA.BP_movingPlatformA_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_movingPlatform_C_UAID_782B46E6C8182ACC01_1247658975
