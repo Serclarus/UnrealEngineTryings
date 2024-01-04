@@ -975,3 +975,170 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.01.04-20.47.48:063][  0]LogInit: XR: Mobile Multiview is Disabled
 [2024.01.04-20.47.48:213][  0]LogTurnkeySupport: Completed device detection: Code = 0
 [2024.01.04-20.47.48:398][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: EE5AF6E2478E366C666E7A9C7150D9DB | Instance: ECEF42D849BBEE4C41ECDE85E3FADF30 (MSI-24680).
+[2024.01.04-20.47.49:386][  0]LogPython: Using Python 3.9.7
+[2024.01.04-20.47.50:584][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2024.01.04-20.47.52:869][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.01.04-20.47.52:876][  0]LogUdpMessaging: Display: Added local interface '172.20.10.2' to multicast group '230.0.0.1:6666'
+[2024.01.04-20.47.52:894][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.01.04-20.47.53:377][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2024.01.04-20.47.53:442][  0]LogMetasoundEngine: MetaSound Engine Initialized
+[2024.01.04-20.47.54:628][  0]LogOpenImageDenoise: OIDN starting up
+[2024.01.04-20.47.54:860][  0]SourceControl: Revision control is disabled
+[2024.01.04-20.47.54:879][  0]LogUProjectInfo: Found projects:
+[2024.01.04-20.47.55:041][  0]SourceControl: Revision control is disabled
+[2024.01.04-20.47.55:989][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.01.04-20.47.56:075][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.01.04-20.47.56:075][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.01.04-20.47.56:341][  0]LogCollectionManager: Loaded 0 collections in 0.002590 seconds
+[2024.01.04-20.47.56:345][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/UnrealEngineTryings/UnrealLearning/Saved/Collections/' took 0.00s
+[2024.01.04-20.47.56:349][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/UnrealEngineTryings/UnrealLearning/Content/Developers/seref/Collections/' took 0.00s
+[2024.01.04-20.47.56:352][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/UnrealEngineTryings/UnrealLearning/Content/Collections/' took 0.00s
+[2024.01.04-20.47.57:315][  0]LogEngine: Initializing Engine...
+[2024.01.04-20.47.57:328][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.01.04-20.47.57:813][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.01.04-20.47.57:829][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.04-20.47.57:829][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.04-20.47.57:846][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.01.04-20.47.57:848][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.01.04-20.47.57:848][  0]LogInit: Texture streaming: Enabled
+[2024.01.04-20.47.57:888][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.3.2-29314046+++UE5+Release-5.3
+[2024.01.04-20.47.57:907][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.01.04-20.47.57:941][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.01.04-20.47.57:943][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.01.04-20.47.57:943][  0]LogAudio: Display: AudioInfo: 'BINKA' Registered
+[2024.01.04-20.47.57:946][  0]LogAudio: Display: AudioInfo: 'PCM' Registered
+[2024.01.04-20.47.57:946][  0]LogAudio: Display: AudioInfo: 'ADPCM' Registered
+[2024.01.04-20.47.57:946][  0]LogAudio: Display: AudioInfo: 'OGG' Registered
+[2024.01.04-20.47.57:946][  0]LogAudio: Display: AudioInfo: 'OPUS' Registered
+[2024.01.04-20.47.57:948][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.01.04-20.47.57:948][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.01.04-20.47.57:948][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.04-20.47.57:948][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.04-20.47.57:948][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.04-20.47.57:948][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.04-20.47.57:948][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.04-20.47.57:948][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.04-20.47.57:948][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.04-20.47.57:948][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.04-20.47.57:950][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.04-20.47.57:950][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.04-20.47.57:950][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.04-20.47.57:960][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.04-20.47.58:120][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.01.04-20.47.58:121][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.04-20.47.58:130][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.04-20.47.58:130][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.04-20.47.58:134][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2024.01.04-20.47.58:134][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.04-20.47.58:137][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.04-20.47.58:137][  0]LogInit: FAudioDevice initialized with ID 1.
+[2024.01.04-20.47.58:137][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2024.01.04-20.47.58:138][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.01.04-20.47.58:138][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2024.01.04-20.47.58:182][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2024.01.04-20.47.58:190][  0]LogInit: Undo buffer set to 32 MB
+[2024.01.04-20.47.58:190][  0]LogInit: Transaction tracking system initialized
+[2024.01.04-20.47.58:269][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded ../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/SourceControl/UncontrolledChangelists.json
+[2024.01.04-20.47.58:269][  0]LogSourceControl: Uncontrolled asset enumeration started...
+[2024.01.04-20.47.58:277][  0]LogSourceControl: Uncontrolled asset enumeration finished in 0.008543 seconds (Found 134 uncontrolled assets)
+[2024.01.04-20.47.58:299][  0]BlueprintLog: New page: Editor Load
+[2024.01.04-20.47.58:613][  0]LocalizationService: Localization service is disabled
+[2024.01.04-20.47.58:675][  0]TimingProfiler: Initialize
+[2024.01.04-20.47.58:675][  0]TimingProfiler: OnSessionChanged
+[2024.01.04-20.47.58:675][  0]LoadingProfiler: Initialize
+[2024.01.04-20.47.58:675][  0]LoadingProfiler: OnSessionChanged
+[2024.01.04-20.47.58:676][  0]NetworkingProfiler: Initialize
+[2024.01.04-20.47.58:676][  0]NetworkingProfiler: OnSessionChanged
+[2024.01.04-20.47.58:676][  0]MemoryProfiler: Initialize
+[2024.01.04-20.47.58:676][  0]MemoryProfiler: OnSessionChanged
+[2024.01.04-20.47.59:301][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/UnrealEngineTryings/UnrealLearning/Content/' took 0.05s
+[2024.01.04-20.47.59:950][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2024.01.04-20.48.00:086][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2024.01.04-20.48.00:099][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.01.04-20.48.00:104][  0]SourceControl: Revision control is disabled
+[2024.01.04-20.48.00:104][  0]LogUnrealEdMisc: Loading editor; pre map load, took 30.734
+[2024.01.04-20.48.00:105][  0]Cmd: MAP LOAD FILE="../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.04-20.48.00:116][  0]LightingResults: New page: Lighting Build
+[2024.01.04-20.48.00:124][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.01.04-20.48.00:124][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.04-20.48.00:124][  0]MapCheck: New page: Map Check
+[2024.01.04-20.48.00:124][  0]LightingResults: New page: Lighting Build
+[2024.01.04-20.48.00:132][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.04-20.48.00:137][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.01.04-20.48.00:815][  0]LogAssetRegistry: Display: Asset registry cache written as 19.1 MiB to ../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Intermediate/CachedAssetRegistry_*.bin
+[2024.01.04-20.48.01:822][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.01.04-20.48.01:987][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2024.01.04-20.48.01:987][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.04-20.48.01:987][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.04-20.48.01:988][  0]LogTurnkeySupport: Turnkey Device: Win64@MSI: (Name=MSI, Type=Computer, Status=Valid, MinAllowed=10.0.18362.0, MaxAllowed=, Current=10.0.23606.0, Flags="Device_InstallSoftwareValid")
+[2024.01.04-20.48.01:988][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.01.04-20.48.01:994][  0]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.01.04-20.48.01:994][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.04-20.48.01:994][  0]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.04-20.48.02:736][  0]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.01.04-20.48.02:736][  0]LogWorldPartition: Display: WorldPartition initialize took 742 ms
+[2024.01.04-20.48.02:756][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.04-20.48.02:771][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.01.04-20.48.02:771][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.04-20.48.02:772][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.403ms to complete.
+[2024.01.04-20.48.02:784][  0]LogUnrealEdMisc: Total Editor Startup Time, took 33.414
+[2024.01.04-20.48.02:784][  0]LogShaderCompilers: Display: ================================================
+[2024.01.04-20.48.02:784][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.04-20.48.02:784][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.01.04-20.48.02:784][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.01.04-20.48.02:784][  0]LogShaderCompilers: Display: RAM used: 240.00 B of 819.20 MiB budget. Usage: 0.00%
+[2024.01.04-20.48.02:784][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.04-20.48.02:784][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.01.04-20.48.02:784][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.01.04-20.48.02:784][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.01.04-20.48.02:784][  0]LogShaderCompilers: Display: ================================================
+[2024.01.04-20.48.03:066][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.04-20.48.03:099][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.04-20.48.03:142][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.04-20.48.03:187][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.04-20.48.03:563][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.04-20.48.03:578][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.3/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2024.01.04-20.48.03:581][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.04-20.48.03:597][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.3/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2024.01.04-20.48.03:597][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.04-20.48.03:609][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.3/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2024.01.04-20.48.03:610][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.04-20.48.03:621][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.3/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2024.01.04-20.48.03:624][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.04-20.48.03:635][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.3/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2024.01.04-20.48.03:636][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.04-20.48.03:647][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.3/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2024.01.04-20.48.03:647][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.04-20.48.03:658][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.3/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2024.01.04-20.48.03:659][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.04-20.48.03:671][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.3/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2024.01.04-20.48.03:672][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.04-20.48.03:682][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.3/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2024.01.04-20.48.03:683][  0]LogPakFile: Initializing PakPlatformFile
+[2024.01.04-20.48.03:692][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/UE_5.3/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2024.01.04-20.48.04:794][  0]LogSlate: Took 0.000812 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.01.04-20.48.04:823][  0]LogSlate: Took 0.014060 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.01.04-20.48.04:841][  0]LogSlate: Took 0.014828 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.01.04-20.48.04:945][  0]LogViewport: Scene viewport resized to 1523x845, mode Windowed.
+[2024.01.04-20.48.06:185][  0]LogStall: Startup...
+[2024.01.04-20.48.06:189][  0]LogStall: Startup complete.
+[2024.01.04-20.48.06:207][  0]LogLoad: (Engine Initialization) Total time: 36.84 seconds
+[2024.01.04-20.48.06:207][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.01.04-20.48.06:414][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.01.04-20.48.06:509][  0]LogAutomationController: Ignoring very large delta of 17320078.54 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.04-20.48.06:622][  1]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2024.01.04-20.48.06:631][  1]Running Python start-up script 'D:/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.118141 secs
+[2024.01.04-20.48.06:976][  1]LogAssetRegistry: AssetRegistryGather time 1.9057s: AssetDataDiscovery 0.8814s, AssetDataGather 0.9162s, StoreResults 0.1081s.
+[2024.01.04-20.48.07:078][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000014 seconds (updated 0 objects)
+[2024.01.04-20.48.07:082][  1]LogD3D12RHI: Cannot end block when stack is empty
+[2024.01.04-20.48.17:008][ 59]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.01.04-20.48.17:064][ 60]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.04-20.48.17:242][ 61]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.04-20.48.27:803][372]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-20.48.28:000][372]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.007395 seconds
+[2024.01.04-20.48.28:003][372]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/MG/2LPMUZSPQABSZCS81F5M2Q
+[2024.01.04-20.48.28:003][372]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/2LPMUZSPQABSZCS81F5M2Q854A1E224950CB290E5C5E99B735DF7D.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/MG/2LPMUZSPQABSZCS81F5M2Q.uasset'
+[2024.01.04-20.48.28:094][372]LogFileHelpers: InternalPromptForCheckoutAndSave took 291 ms
+[2024.01.04-20.48.28:098][372]AssetCheck: New page: Asset Save: BP_Floor_C_UAID_782B46E6C81849C901_1418393263
+[2024.01.04-20.48.28:098][372]LogContentValidation: Display: Validating /Game/Course/BP_Floor.BP_Floor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Floor_C_UAID_782B46E6C81849C901_1418393263
