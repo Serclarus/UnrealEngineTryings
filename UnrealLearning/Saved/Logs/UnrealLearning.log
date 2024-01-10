@@ -1189,3 +1189,30 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2024.01.10-13.28.08:335][348]LogFileHelpers: InternalPromptForCheckoutAndSave took 260 ms
 [2024.01.10-13.28.08:343][348]AssetCheck: New page: Asset Save: BPI_Activate
 [2024.01.10-13.28.08:343][348]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Course/BPI_Activate.BPI_Activate
+[2024.01.10-13.28.13:519][431]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.01.10-13.32.49:446][255]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.01.10-13.32.49:495][255]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=25788
+[2024.01.10-13.32.49:806][256]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7430135e-cbf1-4775-8032-65c4709479d2}, Name=Kulaklıklar (Redmi Buds 3 Pro)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=34.27
+[2024.01.10-13.32.49:807][256]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.10-13.32.49:811][256]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.10-13.32.55:920][261]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.01.10-14.30.52:103][261]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2024.01.10-14.30.54:331][261]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=25788
+[2024.01.10-14.30.54:625][262]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{47a24f11-fc8b-4077-8677-d98b9b67427d}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=196.00
+[2024.01.10-14.30.54:625][262]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.10-14.30.54:689][262]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.10-14.31.00:763][280]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Kulaklıklar (Redmi Buds 3 Pro), InstanceID=1
+[2024.01.10-14.31.00:904][280]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=25788
+[2024.01.10-14.31.01:241][281]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7430135e-cbf1-4775-8032-65c4709479d2}, Name=Kulaklıklar (Redmi Buds 3 Pro)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=73.14
+[2024.01.10-14.31.01:241][281]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.10-14.31.01:246][281]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.10-14.46.50:421][128]LogDerivedDataCache: C:/Users/seref/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.141 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 407 files in 734 folders with total size 12 MiB.
+[2024.01.10-14.55.11:071][887]BlueprintLog: New page: Compile BPI_Activate
+[2024.01.10-14.55.11:154][887]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2024.01.10-14.55.11:702][912]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.10-14.55.11:856][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Course/BPI_Activate" FILE="../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/Course/BPI_Activate.uasset" SILENT=true
+[2024.01.10-14.55.11:862][912]LogSavePackage: Moving output files for package: /Game/Course/BPI_Activate
+[2024.01.10-14.55.11:863][912]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/BPI_ActivateACB60BA34FFE15AAA68F74802698D7CF.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/Course/BPI_Activate.uasset'
+[2024.01.10-14.55.11:885][912]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 444 ms)
+[2024.01.10-14.55.11:887][912]AssetCheck: New page: Asset Save: BPI_Activate
+[2024.01.10-14.55.11:887][912]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Course/BPI_Activate.BPI_Activate
