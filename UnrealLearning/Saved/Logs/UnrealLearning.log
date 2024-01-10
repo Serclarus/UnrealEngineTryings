@@ -1156,3 +1156,36 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2024.01.10-12.47.31:048][ 77]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.01.10-12.47.31:443][ 78]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.01.10-12.48.55:647][ 27]LogDerivedDataCache: C:/Users/seref/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.173 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 407 files in 734 folders with total size 12 MiB.
+[2024.01.10-13.25.47:483][776]LogSlate: Took 0.009784 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.10-13.25.47:643][778]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.10-13.25.47:813][779]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.10-13.25.47:880][780]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.10-13.25.47:942][781]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.10-13.25.59:989][904]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.01.10-13.26.36:761][164]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2024.01.10-13.26.36:791][164]LogContentBrowser: Creating deferred item: NewInterface
+[2024.01.10-13.26.36:832][165]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2024.01.10-13.26.48:740][812]LogContentBrowser: Attempting asset rename: NewInterface -> BPI_Activate
+[2024.01.10-13.26.48:759][812]LogContentBrowser: End creating deferred item NewInterface
+[2024.01.10-13.26.58:113][210]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Course/BPI_Activate.BPI_Activate
+[2024.01.10-13.26.58:113][210]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.10-13.26.58:113][210]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.10-13.27.03:832][345]LogSlate: Window 'BPI_Activate' being destroyed
+[2024.01.10-13.27.05:069][378]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.01.10-13.27.05:069][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.10-13.27.47:001][224]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2024.01.10-13.27.47:008][224]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.091
+[2024.01.10-13.27.47:012][224]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Course/BPI_Activate] ([2] browsable assets)...
+[2024.01.10-13.27.47:012][224]OBJ SavePackage: Finished generating thumbnails for package [/Game/Course/BPI_Activate]
+[2024.01.10-13.27.47:012][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Course/BPI_Activate" FILE="../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/Autosaves/Game/Course/BPI_Activate_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.01.10-13.27.47:032][224]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.015771 seconds
+[2024.01.10-13.27.47:048][224]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Course/BPI_Activate_Auto1
+[2024.01.10-13.27.47:048][224]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/BPI_Activate_Auto1C4B542AB42CD43B4F6FCC3844383EE38.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/Autosaves/Game/Course/BPI_Activate_Auto1.uasset'
+[2024.01.10-13.27.47:053][224]LogFileHelpers: Auto-saving content packages took 0.045
+[2024.01.10-13.28.08:074][348]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.10-13.28.08:231][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Course/BPI_Activate" FILE="../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/Course/BPI_Activate.uasset" SILENT=true
+[2024.01.10-13.28.08:234][348]LogSavePackage: Moving output files for package: /Game/Course/BPI_Activate
+[2024.01.10-13.28.08:234][348]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/BPI_Activate7D08FD294B513B332FD0C9839BD01235.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/Course/BPI_Activate.uasset'
+[2024.01.10-13.28.08:335][348]LogFileHelpers: InternalPromptForCheckoutAndSave took 260 ms
+[2024.01.10-13.28.08:343][348]AssetCheck: New page: Asset Save: BPI_Activate
+[2024.01.10-13.28.08:343][348]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Course/BPI_Activate.BPI_Activate
