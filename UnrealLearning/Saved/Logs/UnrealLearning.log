@@ -1865,3 +1865,18 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2024.03.18-20.35.01:672][108]LogContentValidation: Display: Validating /Game/Course/BP_Floor.BP_Floor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Floor_C_UAID_782B46E6C81849C901_1418393263
 [2024.03.18-20.35.01:672][108]LogContentValidation: Display: Validating /Game/Course/BP_activatePlatform.BP_activatePlatform_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_activatePlatform_C_UAID_782B46E6C8187ECC01_1158453759
 [2024.03.18-20.35.01:673][108]LogContentValidation: Display: Validating /Game/Course/genericActor.genericActor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.genericActor_C_UAID_782B46E6C818DEC501_1781837263
+[2024.03.18-20.36.37:175][620]Cmd: TRANSACTION UNDO
+[2024.03.18-20.36.37:175][620]LogEditorTransaction: Undo Move Elements
+[2024.03.18-20.36.37:739][628]Cmd: TRANSACTION UNDO
+[2024.03.18-20.36.37:739][628]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.18-20.36.38:518][654]Cmd: TRANSACTION UNDO
+[2024.03.18-20.36.38:518][654]LogEditorTransaction: Undo Move Elements
+[2024.03.18-20.36.43:261][785]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.18-20.36.43:393][785]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/4A/NOH5BW8E1XZZWGW9BDYL6W
+[2024.03.18-20.36.43:394][785]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/NOH5BW8E1XZZWGW9BDYL6W5C29E3ED4351B61CA6247986B8F4650C.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/4A/NOH5BW8E1XZZWGW9BDYL6W.uasset'
+[2024.03.18-20.36.43:398][785]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/7I/NWINZ0E19LYXUPRM70G0JV
+[2024.03.18-20.36.43:399][785]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/NWINZ0E19LYXUPRM70G0JV49BC337242149B11C69ED9BB11485C9B.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/7I/NWINZ0E19LYXUPRM70G0JV.uasset'
+[2024.03.18-20.36.43:415][785]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 588 ms)
+[2024.03.18-20.36.43:420][785]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.18-20.36.43:420][785]LogContentValidation: Display: Validating /Game/Course/genericActor.genericActor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.genericActor_C_UAID_782B46E6C8181EC601_1671537528
+[2024.03.18-20.36.43:420][785]LogContentValidation: Display: Validating /Game/Course/genericActor.genericActor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.genericActor_C_UAID_782B46E6C818DEC501_1781837263
