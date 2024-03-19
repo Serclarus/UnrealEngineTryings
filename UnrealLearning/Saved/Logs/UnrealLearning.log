@@ -2561,3 +2561,32 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2024.03.19-13.11.17:884][435]LogContentValidation: Display: Validating /Game/Course/BP_Floor.BP_Floor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Floor_C_UAID_782B46E6C81849C901_1418393263
 [2024.03.19-13.11.17:884][435]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_0
 [2024.03.19-13.11.17:884][435]LogContentValidation: Display: Validating /Game/Course/BP_movingPlatformA.BP_movingPlatformA_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_movingPlatform_C_UAID_782B46E6C8182ACC01_1247658975
+[2024.03.19-13.11.49:505][719]Cmd: TRANSACTION UNDO
+[2024.03.19-13.11.49:505][719]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.19-13.11.50:121][725]Cmd: TRANSACTION UNDO
+[2024.03.19-13.11.50:121][725]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.19-13.11.50:925][736]Cmd: TRANSACTION UNDO
+[2024.03.19-13.11.50:925][736]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.19-13.11.51:731][759]Cmd: TRANSACTION UNDO
+[2024.03.19-13.11.51:731][759]LogEditorTransaction: Undo Move Elements
+[2024.03.19-13.11.54:632][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.19-13.11.54:809][846]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IZ/6QEVT3BJA2RSO8YX93Q2KS
+[2024.03.19-13.11.54:810][846]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/6QEVT3BJA2RSO8YX93Q2KS8A49927542158C5272B82683BBFB0B78.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IZ/6QEVT3BJA2RSO8YX93Q2KS.uasset'
+[2024.03.19-13.11.54:815][846]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/SH/44DEQFV8W43U7SFNWLB6G8
+[2024.03.19-13.11.54:816][846]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/44DEQFV8W43U7SFNWLB6G84EFD4647479C8B404281B0BC055DA641.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/SH/44DEQFV8W43U7SFNWLB6G8.uasset'
+[2024.03.19-13.11.54:820][846]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6
+[2024.03.19-13.11.54:820][846]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/NG2R9BPZVA7ZDN0Z4VSTG65043310F488414F9FD7646BC81DDF98E.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset'
+[2024.03.19-13.11.54:826][846]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/MG/2LPMUZSPQABSZCS81F5M2Q
+[2024.03.19-13.11.54:827][846]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/2LPMUZSPQABSZCS81F5M2Q546BFCF641995C6635A7508E530AD0DA.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/MG/2LPMUZSPQABSZCS81F5M2Q.uasset'
+[2024.03.19-13.11.54:832][846]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6
+[2024.03.19-13.11.54:834][846]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/MRHJREJ6H7USQYWF1KO8F625BB6CCB4979AC02297AA39094415693.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset'
+[2024.03.19-13.11.54:840][846]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/ED/Y2XP5TGKS5I8QVHCIKO8WT
+[2024.03.19-13.11.54:841][846]LogSavePackage: Moving '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Saved/Y2XP5TGKS5I8QVHCIKO8WTBAF569B24F276344FD530F9C4B8BBE70.tmp' to '../../../../../GitHub/UnrealEngineTryings/UnrealLearning/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/ED/Y2XP5TGKS5I8QVHCIKO8WT.uasset'
+[2024.03.19-13.11.54:910][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 277 ms (total: 1.43 sec)
+[2024.03.19-13.11.54:913][846]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.19-13.11.54:913][846]LogContentValidation: Display: Validating /Game/Course/BP_movingPlatformA.BP_movingPlatformA_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_movingPlatform_C_UAID_782B46E6C81872C701_1662495367
+[2024.03.19-13.11.54:913][846]LogContentValidation: Display: Validating /Game/Course/BP_movingPlatformA.BP_movingPlatformA_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_movingPlatform_C_UAID_782B46E6C8186FC701_1936518839
+[2024.03.19-13.11.54:913][846]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1
+[2024.03.19-13.11.54:914][846]LogContentValidation: Display: Validating /Game/Course/BP_Floor.BP_Floor_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Floor_C_UAID_782B46E6C81849C901_1418393263
+[2024.03.19-13.11.54:914][846]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_0
+[2024.03.19-13.11.54:914][846]LogContentValidation: Display: Validating /Game/Course/BP_movingPlatformA.BP_movingPlatformA_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_movingPlatform_C_UAID_782B46E6C8182ACC01_1247658975
